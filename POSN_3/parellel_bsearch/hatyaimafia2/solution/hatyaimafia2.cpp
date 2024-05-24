@@ -2,9 +2,9 @@
 
 using namespace std ;
 
-const int SIZE = 2e5 + 1 ;
+const int SIZE = 3e5 + 1 ;
 
-int pa [SIZE] , L[SIZE] , R[SIZE] , n , q ;
+int pa [SIZE] , L[SIZE] , R[SIZE] , n , m , q ;
 
 struct event {
     int x , y ;
@@ -47,7 +47,7 @@ int main(){
 
     // parallel 
 
-    cin >> n >> q ;
+    cin >> m >> n >> q ;
 
     for(int i = 0 ; i < n ; i ++ ){
         event e ; cin >> e.x >> e.y ;
@@ -105,7 +105,7 @@ int main(){
     }
 
     for(int i = 0 ; i < q ; i ++ ){
-        (L[i] != n) ? cout << L[i] << '\n' : cout << -1 << '\n';
+        (L[i] != n) ? cout << L[i] + 1 << '\n' : cout << -1 << '\n';
     }
 
     return 0 ;
