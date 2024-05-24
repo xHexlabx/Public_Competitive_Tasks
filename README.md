@@ -14,10 +14,10 @@
 ### POSN II 🥈
 <p>
   <ul>
-   <li>data structure</li>
-   <li>graph theory</li>
-   <li>greedy algorithm</li>
-   <li>state space search</li>
+   <li>Data Structure</li>
+   <li>Graph Theory</li>
+   <li>Greedy Algorithm</li>
+   <li>State Space Search</li>
    
   </ul>
 </p>
@@ -27,7 +27,7 @@
 ### POSN III 🥇
 <p>
   <ul>
-   <li>parallel binary search</li>
-   <li>range query</li>
+   <li>Parallel Binary Search</li>
+   <li>Range Query</li>
   </ul>
 </p>
