@@ -9,7 +9,7 @@
 
 ### POSN I
 
-<br>
+<hr>
 
 ### POSN II
 <p>
@@ -22,7 +22,7 @@
   </ul>
 </p>
 
-<br>
+<hr>
 
 ### POSN III
 <p>
