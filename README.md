@@ -31,5 +31,6 @@
   <ul>
    <li>Parallel Binary Search</li>
    <li>Range Query</li>
+   <li>Strongly Connected Components</li>
   </ul>
 </p>
