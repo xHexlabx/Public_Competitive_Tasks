@@ -11,16 +11,25 @@
 
 ### POSN I 🥉
 
+<p>
+  <ul>
+   <li>Math</li>
+   <li>Two Pointer</li>
+   <li>Sorting</li>
+  </ul>
+</p>
+
 <hr>
 
 ### POSN II 🥈
 <p>
   <ul>
+   <li>Binary Search</li>
    <li>Data Structure</li>
+   <li>Dynamic Programming</li>
    <li>Graph Theory</li>
    <li>Greedy Algorithm</li>
    <li>State Space Search</li>
-   
   </ul>
 </p>
 
