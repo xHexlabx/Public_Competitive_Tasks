@@ -14,8 +14,10 @@
 <p>
   <ul>
    <li>Math</li>
+   <li>Recursion</li>
    <li>Two Pointer</li>
    <li>Sorting</li>
+   <li>Pigeon Hole Principle</li>
   </ul>
 </p>
 
@@ -24,12 +26,13 @@
 ### POSN II 🥈
 <p>
   <ul>
-   <li>Binary Search</li>
+   <li>Divide And Conquer</li>
    <li>Data Structure</li>
    <li>Dynamic Programming</li>
    <li>Graph Theory</li>
    <li>Greedy Algorithm</li>
    <li>State Space Search</li>
+   <li>String Matching</li>
   </ul>
 </p>
 
@@ -38,8 +41,11 @@
 ### POSN III 🥇
 <p>
   <ul>
+   <li>Lowest Common Ancestor</li>
    <li>Parallel Binary Search</li>
    <li>Range Query</li>
+   <li>Sweep Line</li>
    <li>Strongly Connected Components</li>
+   <li>Matrix Exponential</li>
   </ul>
 </p>
